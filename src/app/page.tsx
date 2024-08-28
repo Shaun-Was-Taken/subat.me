@@ -213,8 +213,8 @@ export default function Page() {
                 >
                   LinkedIn
                 </Link>{" "}
-                with a brief message. I'm open to professional discussions and
-                opportunities!
+                with a brief message. I&apos;m open to professional discussions
+                and opportunities!
               </p>
             </div>
           </BlurFade>

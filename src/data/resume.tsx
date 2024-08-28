@@ -4,7 +4,7 @@ import { CodeIcon, HomeIcon, NotebookIcon, PencilLine } from "lucide-react";
 export const DATA = {
   name: "Subat Qutlan",
   initials: "SQ",
-  url: "https://dillion.io",
+  url: "https://www.subat.me/",
   location: "Lawrence, KS",
   locationLink: "https://www.google.com/maps/place/lawrence-kansas",
   description:

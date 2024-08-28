@@ -137,7 +137,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://magicui.design",
+          href: "https://www.uyghurgpt.com/",
           icon: <Icons.globe className="size-3" />,
         },
       ],

@@ -16,6 +16,7 @@ export const DATA = {
     "React",
     "Angular",
     "Next.js",
+    "ASP .NET",
     "Typescript",
     "Javascript",
     "HTML",
@@ -25,8 +26,8 @@ export const DATA = {
     "Postgres",
     "Java",
     "C++",
-
-    "ASP .NET",
+    "C#",
+    "UI/UX",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -103,7 +104,7 @@ export const DATA = {
     {
       title: "LaunchPadQuick",
       href: "https://www.launchpadquick.com/",
-      dates: "Apr 2024 - Present",
+      dates: "April 2024 - Present",
       active: true,
       description:
         "I built a **Next.js SaaS platform** that streamlines web app development with **pre-built modules** for **auth**, **database**, and **payments**. Using modern tech stack and **UI components**, it simplifies the creation process for developers. Launched on **ProductHunt** to gather feedback and boost visibility.",
@@ -116,6 +117,7 @@ export const DATA = {
         "Stripe",
         "Shadcn UI",
         "Magic UI",
+        "SEO",
       ],
       links: [
         {
@@ -125,6 +127,32 @@ export const DATA = {
         },
       ],
       image: "/lpq.png",
+    },
+    {
+      title: "StripeEarningsBoard",
+      href: "https://github.com/Shaun-Was-Taken/StripeBoard",
+      dates: "April 2024 - May 2024",
+      active: false,
+      description:
+        "**StripeEarningsBoard**: A **Next.js** component that displays **real-time** Stripe **transactions** on your website. This tool **fetches live sales data**, allowing you to monitor your earnings instantly without visiting Stripe's dashboard. Easily integrate it into your project to **visualize** your financial success as it happens.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "MongoDB",
+        "Prisma",
+        "TailwindCSS",
+        "Stripe",
+        "Shadcn UI",
+        "Magic UI",
+      ],
+      links: [
+        {
+          type: "Github",
+          href: "https://github.com/Shaun-Was-Taken/StripeBoard",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/s.png",
     },
     {
       title: "Uyghur GPT",
